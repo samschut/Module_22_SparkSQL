@@ -1,1 +1,2 @@
 # Module_22_SparkSQL
+In this module, google colab is utilized for spark access. A home sales dataset is being used to determine price of a homes based on a few variables given and the time it takes to retrieve the data will be recorded. The data will then be cached and a time will be recorded for the same query. The dataset will also be uncached. All of these steps will be verified with spark code. 
